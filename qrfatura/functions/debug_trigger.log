@@ -1,0 +1,8 @@
+=== Webhook Başladı ===
+URL: https://webhook.site/00d1315c-9fe5-4f74-ad84-5fb1abdc6417
+DATA: {"ettn":"25df8685-8970-4117-a988-59c0f7ac6cf3","qr_raw":"{\"vkntckn\":\"60487101614\",\"avkntckn\":\"11111111111\",\"senaryo\":\"EARSIVFATURA\",\"tip\":\"SATIS\",\"tarih\":\"2025-06-16\",\"no\":\"MOD2025000010304\",\"ettn\":\"25df8685-8970-4117-a988-59c0f7ac6cf3\",\"parabirimi\":\"TRY\",\"malhizmettoplam\":\"611.20\",\"kdvmatrah(10.00)\":\"544.55\",\"kdvmatrah(20.00)\":\"66.66\",\"hesaplanankdv(10.00)\":\"54.45\",\"hesaplanankdv(20.00)\":\"13.33\",\"vergidahil\":\"678.99\",\"odenecek\":\"678.99\"}","status":"zaten_kayitli"}
+HTTP Kodu: 200
+=== Webhook Başladı ===
+URL: https://webhook.site/00d1315c-9fe5-4f74-ad84-5fb1abdc6417
+DATA: {"ettn":"25df8685-8970-4117-a988-59c0f7ac6cf3","qr_raw":"{\"vkntckn\":\"60487101614\",\"avkntckn\":\"11111111111\",\"senaryo\":\"EARSIVFATURA\",\"tip\":\"SATIS\",\"tarih\":\"2025-06-16\",\"no\":\"MOD2025000010304\",\"ettn\":\"25df8685-8970-4117-a988-59c0f7ac6cf3\",\"parabirimi\":\"TRY\",\"malhizmettoplam\":\"611.20\",\"kdvmatrah(10.00)\":\"544.55\",\"kdvmatrah(20.00)\":\"66.66\",\"hesaplanankdv(10.00)\":\"54.45\",\"hesaplanankdv(20.00)\":\"13.33\",\"vergidahil\":\"678.99\",\"odenecek\":\"678.99\"}","status":"zaten_kayitli"}
+HTTP Kodu: 200

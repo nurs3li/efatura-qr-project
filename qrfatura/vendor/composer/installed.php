@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => '__root__',
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'reference' => null,
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        '__root__' => array(
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'reference' => null,
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'khanamiryan/qrcode-detector-decoder' => array(
+            'pretty_version' => '2.0.2',
+            'version' => '2.0.2.0',
+            'reference' => '8d53cbecaa32f1e56a3be58bb3055ac31774ecd0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../khanamiryan/qrcode-detector-decoder',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'libern/qr-code-reader' => array(
+            'pretty_version' => 'v1.0.10',
+            'version' => '1.0.10.0',
+            'reference' => '4589a5e1535e49fc72e0e4a2334f067b4c662eb3',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../libern/qr-code-reader',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);
